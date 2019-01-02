@@ -1,0 +1,115 @@
+    l 1.0 transitionalen” ”/tr/xhtml1/dtd/xhtml1-t”>
+
+    系统发生错误
+
+    * {
+
+    padding: 0;
+
+    margin: 0;
+
+    }
+
+    html {
+
+    overflow-y: scroll;
+
+    }
+
+    body {
+
+    background: #fff;
+
+    font-family: '微软雅黑';
+
+    &nbslor: #333;
+
+    font-size: 16px;
+
+    }
+
+    img {
+
+    border: 0;
+
+    }
+
+    .error {
+
+    padding: 24px 48px;
+
+    }
+
+    .face {
+
+    font-size: 100px;
+
+    font-weight: normal;
+
+    line-height: 120px;
+
+    margin-bottom: 12px;
+
+    }
+
+    {
+
+    font-size: 32px;
+
+    line-height: 48px;
+
+    }
+
+    .error ntent {
+
+    padding-top: 10px
+
+    }
+
+    .error{
+
+    margin-bottom: 12px;
+
+    }
+
+    .error.title {
+
+    margin-bottom: 3px;
+
+    }
+
+    .error.title{
+
+    &nbslor: #000;
+
+    font-weight: 700;
+
+    font-size: 16px;
+
+    }
+
+    .error.text {
+
+    line-height: 24px;
+
+    }
+
+    pyright {
+
+    padding: 12px 48px;
+
+    &nbslor: #999;
+
+    }
+
+    pyright a {
+
+    &nbslor: #000;
+
+    text-ration: none;
+
+    }
+
+    :(
+
+    页面错误！请稍后再试～
